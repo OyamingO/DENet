@@ -6,11 +6,11 @@ DENet, a dynamic equilibrium approach for cross-domain fire detection, effective
 [[`Paper`](https://doi.org/10.1016/j.jag.2023.103279)] [[`Project`](https://github.com/OyamingO/DENet)] [[`Dataset`](https://doi.org/10.57760/sciencedb.j00104.00103)]  [[`BibTeX`](#Citing-SliceSamp)]
 
 
-### 🔥: SliceSamp design
-<img src="assets/SliceSamp.jpg?raw=true" width="66%" />
+### 🔥: Catastrophic forgetting in cross-domain fire detection task
+<img src="assets/forgetting.png?raw=true" width="66%" />
 
-### 🚀: SliceUpsamp design
-<img src="assets/SliceUpsamp.jpg?raw=true" width="66%" />
+### 🚀: Architecture of DENet
+<img src="assets/architecture.png?raw=true" width="66%" />
 
 ## Installation
 
